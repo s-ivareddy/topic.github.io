@@ -1,0 +1,8 @@
+.tt {
+    text-decoration: none;
+    color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #F7E7CE;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
